@@ -129,11 +129,11 @@
     <system:String x:Key="btnNewTabTTX">Stvori novu katicu do trenutne sa zadanom lokacijom</system:String>
     <system:String x:Key="btnCloneTabTTX">Stvori novu karticu sa lokacijom koja se tenutno prikazuje</system:String>
     <system:String x:Key="btnUndoCloseCP">Undo Close Tab</system:String>
-    <system:String x:Key="btnUndoCloseHCP">Re-opens the most recently closed tab.</system:String>
-    <system:String x:Key="miClearList">Clear List</system:String>
-    <system:String x:Key="btnSavedTabsCP">Saved Tabs</system:String>
+    <system:String x:Key="btnUndoCloseHCP">Otvori ponovno zadnju zatvorenu karticu.</system:String>
+    <system:String x:Key="miClearList">Izbrisi listu</system:String>
+    <system:String x:Key="btnSavedTabsCP">Snimljene kartice</system:String>
     <system:String x:Key="btnSavedTabsHCP">Store a collection of your favorite tabs or open a previously-stored collection.</system:String>
-    <system:String x:Key="miSaveTabs">Save Current Tabs</system:String>
+    <system:String x:Key="miSaveTabs">Snimi aktuelne kartice</system:String>
     <system:String x:Key="tbShareCP">Dijeljenje</system:String>
     <system:String x:Key="tgCompressCP">Sažmi</system:String>
     <system:String x:Key="btnMakeArchiveCP">Stvori Arhivu</system:String>
@@ -383,20 +383,20 @@
     <system:String x:Key="txtChooseFormat">Select which format to use:</system:String>
     <system:String x:Key="txtFormatExplanation">Each format has their own advantages and disadvantages, depending upon what you might need.</system:String>
     <system:String x:Key="txtChooseSpeed">Select a compression speed to use:</system:String>
-    <system:String x:Key="txtFaster">Faster</system:String>
-    <system:String x:Key="txtNormal">Normal</system:String>
-    <system:String x:Key="txtSlower">Slower</system:String>
+    <system:String x:Key="txtFaster">Brze</system:String>
+    <system:String x:Key="txtNormal">Normalno</system:String>
+    <system:String x:Key="txtSlower">Sporije</system:String>
     <system:String x:Key="txtLarger">Larger file size</system:String>
     <system:String x:Key="txtSmaller">Smaller file size</system:String>
-    <system:String x:Key="txtArchiveName">Name of the archive:</system:String>
+    <system:String x:Key="txtArchiveName">Ime arhive:</system:String>
     <!-- Resize Image dialog -->
     <system:String x:Key="txtAspectRatio">Keep aspect ratio</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
     <system:String x:Key="txtMoreCommands">More Commands</system:String>
-    <system:String x:Key="txtAdd">Add</system:String>
-    <system:String x:Key="txtRemove">Remove</system:String>
-    <system:String x:Key="txtMoveUp">Move Up</system:String>
-    <system:String x:Key="txtMoveDown">Move Down</system:String>
+    <system:String x:Key="txtAdd">Dodaj</system:String>
+    <system:String x:Key="txtRemove">Ukloni</system:String>
+    <system:String x:Key="txtMoveUp">Idi nagore</system:String>
+    <system:String x:Key="txtMoveDown">Idi nadole</system:String>
     <system:String x:Key="txtCustomizeQAT">Customize Quick Access Toolbar</system:String>
     <system:String x:Key="txtCustomizeRibbon">Customize Ribbon</system:String>
     <system:String x:Key="txtQATCDesc">Add or remove commands from the Quick Access Toolbar:</system:String>
